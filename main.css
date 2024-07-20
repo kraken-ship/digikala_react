@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: yekanm;
+  }
+  #root{
+    direction: rtl;
+    width: 100%;
+  }
+  @font-face {
+    font-family: yekanb;
+    src: url(./iranyekanwebbold.cfb6e26c.woff2);
+  }
+  @font-face {
+    font-family: yekanm;
+    src: url(./iranyekanwebmedium.2d4f96e5.woff);
+  }

@@ -1,0 +1,248 @@
+{
+    "menu_slider": [
+    { "id": 1,"name":"کاور poco","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-svgrepo-com.svg" },
+    { "id": 2,"name":"سایدرام","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-svgrepo-com.svg" },
+    { "id": 3,"name":"چراغ راهنما","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-svgrepo-com.svg" },
+    { "id": 4,"name":"پاک کن اتودی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-svgrepo-com.svg" },
+    { "id": 5,"name":"دسته بازی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-svgrepo-com.svg" }
+  ],
+  "menu_bottom": [
+    { "id": 1,"name":"دسته بندی کالا ها","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menhamburger.svg","class":"inside-menu" },
+    { "id": 2,"name":"شگفت انگیز ها","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/badge-percent-svgrepo-com.svg" },
+    { "id": 3,"name":"سوپر مارکت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/supermarket.svg" },
+    { "id": 4,"name":"کارت هدیه","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gift.svg" },
+    { "id": 5,"name":"پر فروش ترین ها ","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mostsales.svg" },
+    { "id": 6,"name":"تخفیف ها و پیشنهاد ها","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/tak.svg" },
+    { "id": 7,"name":"  ؟سوالی دارید" },
+    { "id": 8,"name":"در دیجی کالا بفروشید!" }
+  ],
+  "menu_sort": [
+    { "id": 1,"title":"موبایل","name":"همه محصولات موبایل","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile.svg","class":"content" },
+    { "id": 1,"title":"محصولات دیجیتال","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menudigital.svg"},
+    { "id": 1,"title":"خانه و آشپزخانه","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menuhome.svg"},
+    { "id": 1,"title":"مد و پوشاک","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menucloth.svg"},
+    { "id": 1,"title":"کالا های سوپرمارکتی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menusuper.svg"},
+    { "id": 1,"title":"کتاب، لوازم تحریر و هنر","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menuwrite.svg"},
+    { "id": 1,"title":"اسباب بازی، کودک و نوزاد","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menukid.svg"},
+    { "id": 1,"title":"زیبایی و سلامت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menubeauty.svg"},
+    { "id": 1,"title":"ورزش و سفر","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menucamp.svg"},
+    { "id": 1,"title":"ابزار آلات و تجهیزات","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menuachar.svg"},
+    { "id": 1,"title":"خودرو و موتور سیکلت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menucar.svg"},
+    { "id": 1,"title":"محصولات بومی و محلی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/menuhandmade.svg"}
+  ],
+  "menu_sortinside": [
+    { "id": 1,"title":"برند های مختلف گوشی موبایل","name1":"گوشی اپل","name2":"گوشی سامسونگ","name3":"گوشی شیائومی","name4":"گوشی نوکیا","name5":"گوشی هوآوی","name6":"گوشی آنر","name7":"گوشی موتورلا","name8":"گوشی ارد","name9":"گوشی آنر","name10":"گوشی ناتینگ","name11":"گوشی جی پلاس","name12":"گوشی وان پلاس","name13":"گوشی جی ال ایکس"},
+    { "id": 2,"title":"برند های مختلف گوشی موبایل","name1":"گوشی اپل","name2":"گوشی سامسونگ","name3":"گوشی شیائومی","name4":"گوشی نوکیا","name5":"گوشی هوآوی","name6":"گوشی آنر","name7":"گوشی موتورلا","name8":"گوشی ارد","name9":"گوشی آنر","name10":"گوشی ناتینگ","name11":"گوشی جی پلاس","name12":"گوشی وان پلاس","name13":"گوشی جی ال ایکس"},
+    { "id": 3,"title":"برند های مختلف گوشی موبایل","name1":"گوشی اپل","name2":"گوشی سامسونگ","name3":"گوشی شیائومی","name4":"گوشی نوکیا","name5":"گوشی هوآوی","name6":"گوشی آنر","name7":"گوشی موتورلا","name8":"گوشی ارد","name9":"گوشی آنر","name10":"گوشی ناتینگ","name11":"گوشی جی پلاس","name12":"گوشی وان پلاس","name13":"گوشی جی ال ایکس"},
+    { "id": 4,"title":"برند های مختلف گوشی موبایل","name1":"گوشی اپل","name2":"گوشی سامسونگ","name3":"گوشی شیائومی","name4":"گوشی نوکیا","name5":"گوشی هوآوی","name6":"گوشی آنر","name7":"گوشی موتورلا","name8":"گوشی ارد","name9":"گوشی آنر","name10":"گوشی ناتینگ","name11":"گوشی جی پلاس","name12":"گوشی وان پلاس","name13":"گوشی جی ال ایکس"}   
+  ],
+  "insta": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 5,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 6,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 7,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" },
+    { "id": 8,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.jpg","ref":"insta1" }
+    
+  ],
+  "main_slider": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/1.jpg" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/2.jpg" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/3.jpg" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/4.jpg" },
+    { "id": 5,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/5.gif" },
+    { "id": 6,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/6.gif" },
+    { "id": 7,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/7.jpg" },
+    { "id": 8,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/8.jpg" },
+    { "id": 9,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/9.jpg" },
+    { "id": 10,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/kitchen1.jpg" },
+    { "id": 11,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/kitchen2.jpg" }
+  ],
+  "more": [
+    { "id": 1,"name":"سوپر مارکت دیجیکالا","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png" },
+    { "id": 2,"name":"دیجی پی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more2.png" },
+    { "id": 3,"name":"حراج دی جی استایل","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more3.png" },
+    { "id": 4,"name":"فروشگاه حضوری","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more4.png" },
+    { "id": 5,"name":"موبایل کارکرده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more5.png" },
+    { "id": 6,"name":"گیفت کارت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more6.png" },
+    { "id": 7,"name":"بازی برنده ها","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more7.png" },
+    { "id": 8,"name":"خرید چکی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more8.png" }
+  ],
+  "more2": [
+    { "id": 1,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" },
+    { "id": 2,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" },
+    { "id": 3,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" },
+    { "id": 4,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" },
+    { "id": 5,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" },
+    { "id": 6,"title":"سوپر مارکت دیجیکالا","name":"سوپر مارکت دیجیکالا","image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/more1.png","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/left-arrow-svgrepo-com.svg" }
+  ],
+  "amazing_slider": [
+    { "id": 1,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 2,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 3,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 4,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 5,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 6,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 7,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" },
+    { "id": 8,"title":"گوشی موبایل دوجی مدل s40 ظرفیت ...","name1":"10%","name2":"3.599.000","name3":"تومان","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/gucci.jpg" }
+  ],
+  "amazing_super": [
+    { "id": 1,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" },
+    { "id": 2,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" },
+    { "id": 3,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" },
+    { "id": 4,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" },
+    { "id": 5,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" },
+    { "id": 6,"name":"49%","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/pepper.jpg" }
+  ],
+  "amazing_box": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/box1.jpg" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/box2.jpg" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/box3.jpg" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/box4.jpg" }
+  ],
+  "shopping": [
+    { "id": 1,"name":"موبایل","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile.png" },
+    { "id": 2,"name":"کتاب و لوازم تحریر و هنر","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile1.png" },
+    { "id": 3,"name":"کالای دیجیتال","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile2.png" },
+    { "id": 4,"name":"خانه و اشپزخانه","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile3.png" },
+    { "id": 5,"name":"لوازم خانگی برقی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile4.png" },
+    { "id": 6,"name":"مد و پوشاک","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile5.png" },
+    { "id": 7,"name":"طلا و نقره","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile6.png" },
+    { "id": 8,"name":"آرایشی بهداشتی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile7.png" },
+    { "id": 9,"name":"تجهیزات پزشکی و سلامت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile8.jpg" },
+    { "id": 10,"name":"ورزش و سفر","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile9.png" },
+    { "id": 11,"name":"کارت هدیه و گیفت کارت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile10.png" },
+    { "id": 12,"name":"کالای خوراکی و اساسی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile11.png" },
+    { "id": 13,"name":"اسباب بازی، کودک و نوزاد","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile12.png" },
+    { "id": 14,"name":"ابزارآلات و تجهیزات","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile13.png" },
+    { "id": 15,"name":"خودرو و موتورسیکلت","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile14.png" },
+    { "id": 16,"name":"محصولات بومی و محلی","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/mobile15.png" }
+  ],
+  "shopping2": [
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" },
+    { "id": 1,"name1":"25%","name2":"۱۱,۲۵۰,۰۰۰","name3":"تومان","name4":"۱۵,۰۰۰,۰۰۰","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/hard.jpg" }
+  ],
+  "favorite_slider": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 5,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 6,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 7,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 8,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 9,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 10,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 11,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 12,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 13,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" },
+    { "id": 14,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/perl.png" }
+  ],
+  "hygiene": [
+    { "id": 1,"title":"اصلاح موی گوش، بینی وابرو","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 2,"title":"اصلاح موی گوش، بینی وابرو","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 3,"title":"اصلاح موی گوش، بینی وابرو","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 4,"title":"اصلاح موی گوش، بینی وابرو","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 5,"title":"کمک آموزشی تحصیلی","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 6,"title":"جعبه","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 7,"title":"قلک","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" },
+    { "id": 8,"title":"ابزار مراقبت از پوست","name1":"بر اساس سلیقه شما","name2":"مشاهده","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/right-chevron-blue.svg" }
+  ],
+  "hygiene_grid": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/nose.jpg" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/nose.jpg" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/nose.jpg" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/nose.jpg" },
+    { "id": 5,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/phsicsjpg.jpg" },
+    { "id": 6,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/phsicsjpg.jpg" },
+    { "id": 7,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/phsicsjpg.jpg" },
+    { "id": 8,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/phsicsjpg.jpg" }
+  ],
+  "profit": [
+    { "id": 1,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 2,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 3,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 4,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 5,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 6,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 7,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 8,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 9,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 10,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل T13 TWS","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/head.jpg" },
+    { "id": 11,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 12,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 13,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 14,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 15,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 16,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 17,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 18,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 19,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" },
+    { "id": 20,"title1":"۱","title2":"۲","title3":"۳","name1":"هدفون بلوتوثی کیو سی وای مدل Ailybuds Lite","image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/earpod.jpg" }
+  ],
+  "reading":[
+    {"id":1,"name":"هرآنچه باید درباره‌ی فیلم «پیکی بلایندرز» بدانید","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/Peaky-blinders-wallpaper1.jpg"},
+    {"id":2,"name":"ماد جدید ویچر ۳ مسابقات قایق‌رانی حذف شده را به بازی برمی‌گرداند","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/witcher3.jpg"},
+    {"id":3,"name":"قیمت گوشی‌های سری گوگل پیکسل ۹ لو رفت","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/1-21.jpg"},
+    {"id":4,"name":"مدل ۵G ردمی ۱۳ با قیمت ۱۷۰ دلار معرفی شد","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/readme.jpg"}
+  ],
+  "footer1":[
+    {"id":1,"name":"تحویل اکسپرس","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/express-delivery.svg"},
+    {"id":2,"name":"امکان پرداخت در محل","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/cash-on-delivery.svg"},
+    {"id":3,"name":"۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/support.svg"},
+    {"id":4,"name":"هفت روز ضمانت بازگشت کالا","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/days-return.svg"},
+    {"id":5,"name":"ضمانت اصل بودن","image":"https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/original-products.svg"}
+  ],
+  "footer2":[
+    {"id":1,"title":"با دیجی‌کالا","name1":"اتاق خبر دیجی کالا","name2":"فروش در دیجی کالا","name3":"فرصت های شغلی","name4":"گزارش تخلف در دیجی کالا","name5":"تماس با دیجیکالا","name6":"درباره دیجی کالا"},
+    {"id":2,"title":"خدمات مشتریان","name1":"پاسخ به پرسش های متداول","name2":"رویه های بازگرداندن کالا","name3":"شرایط استفاده","name4":"حریم خصوصی","name5":"گزارش باگ"},
+    {"id":3,"title":"راهنمای خرید از دیجی کالا","name1":"نحوه ثبت سفارش","name2":"رویه ارسال سفارش","name3":"شیوه های پرداخت"}
+  ],
+  "footer3": [
+    { "id": 1,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/insta.svg" },
+    { "id": 2,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/twitter.svg" },
+    { "id": 3,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/linkdin.svg" },
+    { "id": 4,"image": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/aparat (2).svg" }
+  ],
+  "footer4": [
+    { "id": 1,"image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image3": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image4": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image5": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image6": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image7": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image8": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg" },
+    { "id": 2,"image1": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image2": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image3": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image4": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image5": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image6": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image7": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg","image8": "https://raw.githubusercontent.com/kraken-ship/digikala_react/main/assets/digimag.svg" }
+   
+  ],
+  "ask":[
+    { 
+            "key": 1, 
+            "title": "چگونه میتوانم یک پروفایل ایجاد کنم؟", 
+            "data": "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق  اپلیکیشن را تماشا کنید.", 
+            "isOpen": false
+        }, 
+        { 
+            "key": 2, 
+            "title": "آیا فیلیمو برای خارج از ایران در دسترس است؟", 
+            "data": "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست.", 
+            "isOpen": false
+        }, 
+        { 
+            "key": 3, 
+            "title": "آیا فیلیمو برای خارج از ایران در دسترس است؟", 
+            "data": "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید.", 
+            "isOpen": false
+        }
+  ]
+}
+ 
